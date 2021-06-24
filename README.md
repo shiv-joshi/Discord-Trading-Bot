@@ -1,0 +1,2 @@
+# discord
+This is a Discord bot that allows users in the channel to trade stocks with the help of the Alpaca API. Users are able to specify the ticker symbol, quantity of shares and the type of order they would like to place. The bot also allows you to check the profit/loss from the past trading day and the current balance of your portfolio. Along with buying the stock, the bot also displays a MatPlotLib graph that depicts the stock's previous week's closing prices.
